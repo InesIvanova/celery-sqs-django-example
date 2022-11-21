@@ -32,7 +32,7 @@ python -m celery -A {your_project_name_here} worker
 
 If you want to work with SQS + lambda instead for async tasks
 1. Create AWS account
-2. Create SES sandbox accoun
+2. Create SES sandbox account
 3. Register identities
 4. Create SQS
 5. Create lambda
